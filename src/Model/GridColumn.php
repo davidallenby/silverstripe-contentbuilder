@@ -1,9 +1,8 @@
 <?php
 
-
+namespace ContentBuilder\Element;
 
 use SilverStripe\ORM\DataObject;
-use Camplete\Models\ElementGrid;
 use SilverStripe\Forms\DropdownField;
 use SilverStripe\Forms\HeaderField;
 use SilverStripe\Forms\TextField;

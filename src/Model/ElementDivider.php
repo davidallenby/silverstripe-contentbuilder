@@ -1,5 +1,7 @@
 <?php
 
+namespace ContentBuilder\Element;
+
 use DNADesign\Elemental\Models\BaseElement;
 
 class ElementDivider extends BaseElement

@@ -1,8 +1,6 @@
 <?php
 
-
-
-use Camplete\Models\GridColumn;
+namespace ContentBuilder\Element;
 use SilverStripe\Forms\TextAreaField;
 
 class GridColumnHTML extends GridColumn {

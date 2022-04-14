@@ -1,8 +1,7 @@
 <?php
 
+namespace ContentBuilder\Element;
 
-
-use Camplete\Models\GridColumn;
 use SilverStripe\Forms\DropdownField;
 use SilverStripe\Forms\TextField;
 
