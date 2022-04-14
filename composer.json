@@ -1,13 +1,17 @@
 {
     "name": "davidallenbby/silverstripe-contentbuilder",
     "description": "Content builder module",
+    "keywords": [
+        "silverstripe",
+        "CMS"
+    ],
     "require": {
         "dnadesign/silverstripe-elemental": "^4.8",
         "symbiote/silverstripe-gridfieldextensions": "^3.3"
     },
     "autoload": {
         "psr-4": {
-            "Davidallenby\\SilverstripeContentBuilder\\": "src/"
+            "DavidAllenby\\SilverstripeContentBuilder\\": "src/"
         }
     },
     "authors": [
