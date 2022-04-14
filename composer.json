@@ -1,6 +1,7 @@
 {
-    "name": "davidallenbby/silverstripe-contentbuilder",
+    "name": "davidallenby/silverstripe-contentbuilder",
     "description": "Content builder module",
+    "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
         "CMS"
@@ -19,5 +20,7 @@
             "name": "David Allenby",
             "email": "hello@davidallenby.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
