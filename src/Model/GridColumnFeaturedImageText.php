@@ -1,8 +1,7 @@
 <?php
 
 
-
-use Camplete\Models\GridColumn;
+namespace ContentBuilder\Element;
 use SilverStripe\Assets\Image;
 use SilverStripe\Forms\TextAreaField;
 use SilverStripe\AssetAdmin\Forms\UploadField;

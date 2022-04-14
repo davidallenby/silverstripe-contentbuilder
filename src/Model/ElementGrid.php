@@ -1,5 +1,7 @@
 <?php
 
+namespace ContentBuilder\Element;
+
 use DNADesign\Elemental\Models\BaseElement;
 use SilverStripe\Forms\TextField;
 use SilverStripe\Forms\CheckboxField;

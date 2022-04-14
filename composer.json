@@ -20,7 +20,5 @@
             "name": "David Allenby",
             "email": "hello@davidallenby.com"
         }
-    ],
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    ]
 }

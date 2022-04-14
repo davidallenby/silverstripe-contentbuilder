@@ -1,5 +1,7 @@
 <?php
 
+namespace ContentBuilder\Element;
+
 use DNADesign\Elemental\Models\BaseElement;
 use SilverStripe\Assets\Image;
 use SilverStripe\AssetAdmin\Forms\UploadField;
