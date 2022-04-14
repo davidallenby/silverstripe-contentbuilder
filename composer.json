@@ -1,0 +1,19 @@
+{
+    "name": "davidallenbby/silverstripe-contentbuilder",
+    "description": "Content builder module",
+    "require": {
+        "dnadesign/silverstripe-elemental": "^4.8",
+        "symbiote/silverstripe-gridfieldextensions": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Davidallenby\\SilverstripeContentBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Allenby",
+            "email": "hello@davidallenby.com"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+ContentBuilderPage:
+  extensions:
+    - DNADesign\Elemental\Extensions\ElementalPageExtension
+
