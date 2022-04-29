@@ -6,7 +6,7 @@
       ></div>
     <% end_if %>
     <% if $ShowTitle %>
-        <h2 class="herobannerelement__title display-4 text-center position-absolute text-white">$Title</h2>
+        <h2 class="herobannerelement__title display-2 text-center position-absolute text-white">$Title</h2>
     <% end_if %>
   </div>
 </div>
